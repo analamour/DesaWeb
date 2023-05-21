@@ -255,3 +255,7 @@ hr {
   .separator {
     margin: 0 5px;
   }
+
+  #iconImage {
+    width: 30px;
+  }
